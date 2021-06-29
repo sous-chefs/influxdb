@@ -1,0 +1,5 @@
+name             'test'
+maintainer       'test cookbook'
+license          'Apache-2.0'
+version          '0.1.0'
+depends          'sc-influxdb'
