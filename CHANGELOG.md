@@ -2,6 +2,8 @@
 
 This file is used to list changes made in each version of the influxdb cookbook.
 
+## Unreleased
+
 ## 0.1.0
 
 Initial release.
