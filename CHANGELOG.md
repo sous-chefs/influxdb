@@ -2,7 +2,7 @@
 
 This file is used to list changes made in each version of the influxdb cookbook.
 
-## Unreleased
+## 0.1.2 - *2023-03-02*
 
 Standardise files with files in sous-chefs/repo-management
 
