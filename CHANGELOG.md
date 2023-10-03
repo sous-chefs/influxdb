@@ -2,7 +2,7 @@
 
 This file is used to list changes made in each version of the influxdb cookbook.
 
-## Unreleased
+## 0.1.7 - *2023-10-03*
 
 ## 0.1.6 - *2023-06-01*
 
