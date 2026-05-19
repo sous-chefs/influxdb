@@ -5,7 +5,7 @@ maintainer       'Sous Chefs'
 maintainer_email 'help@sous-chefs.org'
 license          'Apache-2.0'
 description      'Provides custom resources for installing and configuring InfluxDB 3 Core'
-version          '0.1.10'
+version          '1.0.0'
 chef_version     '>= 15.3'
 
 source_url       'https://github.com/sous-chefs/influxdb'

@@ -2,6 +2,22 @@
 
 This file is used to list changes made in each version of the influxdb cookbook.
 
+## [1.0.0](https://github.com/sous-chefs/influxdb/compare/v0.1.10...v1.0.0) (2026-05-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* migrate to custom resources ([#27](https://github.com/sous-chefs/influxdb/issues/27))
+
+### Features
+
+* migrate to custom resources ([#27](https://github.com/sous-chefs/influxdb/issues/27)) ([d0600e1](https://github.com/sous-chefs/influxdb/commit/d0600e1a43eff351afff61e411f5896744856eb3))
+
+
+### Bug Fixes
+
+* **ci:** Update workflows to use release pipeline ([#22](https://github.com/sous-chefs/influxdb/issues/22)) ([7e4dac6](https://github.com/sous-chefs/influxdb/commit/7e4dac6cffa6db59de2bc9e1620079d53656dc51))
+
 ## [0.1.10](https://github.com/sous-chefs/influxdb/compare/0.1.9...v0.1.10) (2025-10-15)
 
 
